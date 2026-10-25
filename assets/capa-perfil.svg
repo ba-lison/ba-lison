@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Alison Cruz · Balison</title>
+  <desc id="desc">Produtos digitais e IA aplicada. Capa nas cores papel, grafite e musgo da Balison.</desc>
+  <rect width="1200" height="360" fill="#F3F0E8"/>
+  <rect x="826" width="374" height="360" fill="#202725"/>
+  <g stroke="#202725" stroke-opacity=".16" fill="none">
+    <path d="M44 44H782M44 316H782M60 28V332M766 28V332"/>
+    <path d="M36 60H52M44 52V68M774 300H790M782 292V308"/>
+  </g>
+  <text x="76" y="88" font-family="IBM Plex Mono,Consolas,monospace" font-size="14" letter-spacing="3" fill="#5C6554">BALISON / GITHUB</text>
+  <text x="70" y="191" font-family="IBM Plex Sans,Segoe UI,Arial,sans-serif" font-size="79" font-weight="600" letter-spacing="-4" fill="#202725">Alison Cruz<tspan fill="#5C6554">.</tspan></text>
+  <text x="76" y="243" font-family="IBM Plex Sans,Segoe UI,Arial,sans-serif" font-size="28" fill="#202725">Produtos digitais e IA aplicada.</text>
+  <text x="76" y="287" font-family="IBM Plex Mono,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#5C6554">TECNOLOGIA COM TRAÇO HUMANO</text>
+  <g stroke="#F3F0E8" stroke-opacity=".17" fill="none" stroke-width="1">
+    <path d="M866 0V360M916 0V360M966 0V360M1016 0V360M1066 0V360M1116 0V360M1166 0V360"/>
+    <path d="M826 40H1200M826 90H1200M826 140H1200M826 190H1200M826 240H1200M826 290H1200M826 340H1200"/>
+    <circle cx="1016" cy="190" r="122"/><circle cx="1016" cy="190" r="77"/>
+    <path d="M894 190H1138M1016 68V312" stroke-opacity=".4"/>
+  </g>
+  <rect x="898" y="140" width="236" height="99" rx="0" fill="#202725" stroke="#F3F0E8" stroke-opacity=".5"/>
+  <text x="1016" y="202" text-anchor="middle" font-family="IBM Plex Mono,Consolas,monospace" font-size="34" letter-spacing="3" fill="#F3F0E8">AECO + IA</text>
+  <circle cx="1134" cy="239" r="7" fill="#5C6554"/>
+</svg>
